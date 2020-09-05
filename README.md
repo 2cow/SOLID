@@ -1,4 +1,3 @@
 # SOLID
-# SOLID
-# SOLID
-# SOLID
+
+<img src="exp.png" alt="SOLID"/>
