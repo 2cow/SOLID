@@ -158,7 +158,7 @@ let webDeveloper = CvWebDeveloper(php: true, js: true)
 let iosDeveloper = CvIosDeveloper(swift: true, objC: false)
 let unixDeveloper = CvUnixDeveloper(cpp: true, java: true)
 
-// 5. Dispencity injection
+// 5. Dependency Inversion
 //The upper level module should not depend on the lower level module.
 //Lower level modules must use abstraction.
 
